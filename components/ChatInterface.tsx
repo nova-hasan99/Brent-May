@@ -221,7 +221,7 @@ export function ChatInterface() {
 
             <div>
               <h1 className="text-2xl font-bold bg-gradient-to-r from-gray-800 to-gray-600 bg-clip-text text-transparent">
-                Brent May's Public KnowledgeBot
+                Brent May's Public Knowledge Bot
               </h1>
               {isInitialized && (
                 <p className="text-sm text-gray-500">
@@ -275,7 +275,7 @@ export function ChatInterface() {
               </div>
 
               <h2 className="text-3xl font-bold text-gray-800 mb-3">
-                Welcome to Brent May's Public KnowledgeBot
+                Welcome to Brent May's Public Knowledge Bot
               </h2>
               <p className="text-gray-600 mb-8 max-w-lg mx-auto leading-relaxed">
                 This assistant is based on Brent May's public content.
@@ -335,7 +335,7 @@ export function ChatInterface() {
                 </div>
 
                 <h3 className="text-xl font-bold text-gray-800 mb-2">
-                  Brent May's Public KnowledgeBot
+                  Brent May's Public Knowledge Bot
                 </h3>
                 <p className="text-gray-600 mb-6 max-w-lg mx-auto text-sm leading-relaxed">
                   This assistant is based on Brent May's public content.
